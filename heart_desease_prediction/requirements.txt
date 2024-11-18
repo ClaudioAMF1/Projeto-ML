@@ -1,0 +1,41 @@
+# Core Data Science
+numpy>=1.24.0
+pandas>=1.5.0
+scikit-learn>=1.0.2
+
+# Machine Learning
+xgboost>=1.7.0
+lightgbm>=3.3.5
+
+# Deep Learning (opcional, se você estiver usando redes neurais)
+tensorflow>=2.12.0
+
+# Visualização
+plotly>=5.13.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Interface Web
+streamlit>=1.24.0
+streamlit-authenticator>=0.1.5
+streamlit-option-menu>=0.3.2
+streamlit-extras>=0.2.7
+
+# Geração de Relatórios
+fpdf>=1.7.2
+openpyxl>=3.1.0
+
+# Interpretabilidade do Modelo
+shap>=0.41.0
+eli5>=0.13.0
+
+# Utilidades
+python-dotenv>=0.21.0
+pyyaml>=6.0.0
+joblib>=1.2.0
+
+# Desenvolvimento e Testes
+pytest>=7.0.0
+black>=23.0.0
+flake8>=6.0.0
+isort>=5.12.0
