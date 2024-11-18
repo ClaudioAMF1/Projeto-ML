@@ -128,16 +128,6 @@ streamlit run src/web/app.py
 - [ ] Melhorar as recomendações
 - [ ] Adicionar suporte a múltiplos idiomas
 
-## Licença 📝
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para detalhes.
-
-## Contato 📧
-Seu Nome - seu.email@exemplo.com
-
-Link do Projeto: [https://github.com/seu-usuario/heart-disease-prediction](https://github.com/seu-usuario/heart-disease-prediction)
-
-## Agradecimentos 🙏
-- Dataset do UCI Machine Learning Repository
-- Comunidade do Streamlit
-- Contribuidores do projeto
-- E todos que ajudaram no desenvolvimento!
+## Autores 🙋🏼‍♂️ 
+- Claudio Meireles
+- Kelwin Menezes
