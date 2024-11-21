@@ -49,7 +49,7 @@ heart_disease_prediction/
 ### Instalação
 1. Clone o repositório:
 ```bash
-git clone [URL_DO_REPOSITÓRIO]
+git clone https://github.com/ClaudioAMF1/Projeto-ML.git
 cd heart_disease_prediction
 ```
 
@@ -113,13 +113,6 @@ streamlit run src/web/app.py
 - Precisão: 92.27%
 - Recall: 91.80%
 - F1-Score: 91.82%
-
-## Próximos Passos 🎯
-- [ ] Implementar autenticação de usuários
-- [ ] Adicionar mais visualizações
-- [ ] Integrar com outros dados clínicos
-- [ ] Melhorar as recomendações
-- [ ] Adicionar suporte a múltiplos idiomas
 
 ## Autores 🙋🏼‍♂️ 
 - Claudio Meireles
