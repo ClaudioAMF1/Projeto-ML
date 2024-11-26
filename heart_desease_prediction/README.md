@@ -116,4 +116,4 @@ streamlit run src/web/app.py
 
 ## Autores 🙋🏼‍♂️ 
 - Claudio Meireles
-- Kelwin Menezes
+- Kelwin Menezes 
